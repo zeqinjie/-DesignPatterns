@@ -42,6 +42,14 @@
     
     
     NSLog(@"num = %d",[factory getVehicalNum]);
+    /**
+     2017-05-17 14:45:58.155169+0800 ShareElement[5876:1794076] jack 拥有 Car
+     2017-05-17 14:45:58.155390+0800 ShareElement[5876:1794076] petter 拥有 Car
+     2017-05-17 14:45:58.155491+0800 ShareElement[5876:1794076] Lily 拥有 Car
+     2017-05-17 14:45:58.155630+0800 ShareElement[5876:1794076] Lei 拥有 Bus
+     2017-05-17 14:45:58.155925+0800 ShareElement[5876:1794076] Chen 拥有 Bus
+     2017-05-17 14:45:58.156158+0800 ShareElement[5876:1794076] num = 2
+     **/
 }
 
 - (void)didReceiveMemoryWarning {
